@@ -1,1 +1,1 @@
-# freelance-apps
+# Practice coding and development
